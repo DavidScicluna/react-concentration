@@ -16,6 +16,6 @@ To Visit App:
 
 ## Dependencies
   * [Icons from Font Awesome](https://fontawesome.com)
-  * [Sound effects from freesound.org](https://freesound.org)
+  * [Sound effects from freesound](https://freesound.org)
   * [UI Components from Material-UI](https://material-ui.com)
   * [Create React App from Facebook](https://create-react-app.dev)
