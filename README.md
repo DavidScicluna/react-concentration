@@ -1,6 +1,6 @@
 # Concentration Game
 
-Concentration is a matching card game. For the player to win, the user needs to match all the cards by matching 2 of the same icon type. Built with [React JS](https://reactjs.org).
+Concentration is a card matching game. To win, the player has to match all the cards by pairing the ones that contain the same icon. Built with [React JS](https://reactjs.org).
 
 ## Features
   1. Sound effects
